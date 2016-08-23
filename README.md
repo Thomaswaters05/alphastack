@@ -1,7 +1,7 @@
 # Alpha Stacker Exercise
 
 ## Description
-1. Creates a "stackletters" function that wil console log like this:
+- Creates a "stackletters" function that wil console log like this:
 ```
 a
 ab
@@ -12,7 +12,7 @@ abcdef
 etc
 
 ```
-2. It then adds logic to "stackletters" that places a space after every fifth letter.
+- It then adds logic to "stackletters" that places a space after every fifth letter.
 
 ## How to run its
 In your terminal run:
